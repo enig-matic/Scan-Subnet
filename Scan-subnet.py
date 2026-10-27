@@ -13,7 +13,7 @@ ban = pyfiglet.figlet_format(
 
 print("\033[96m" + ban + "\033[0m")
 print("=" * 60)
-print("       Block IP Addresees")
+print("       Scan the Network")
 print("=" * 60)
 print("Date : 27/10/2026\n")
 
